@@ -1,0 +1,17 @@
+{
+  "uuid": "b4fc31ca-ce15-4579-8a24-b21c3281efd1",
+  "shortName": "SimpleAnalog",
+  "longName": "SimpleAnalogWatchface",
+  "companyName": "hikoLab",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+  },
+  "resources": {
+    "media": []
+  }
+}
